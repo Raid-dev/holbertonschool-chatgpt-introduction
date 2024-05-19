@@ -1,7 +1,7 @@
 # Debugging
 Following programs were debugged by using ChatGPT
 ## Programs
-factorial.py | Returns factorial of a given number
+factorial.py | Returns factorial of a given number <br />
 print_arguments.py | Prints the given arguments
 change_background.html | Changes background color
 mines.py | Minesweeper game
